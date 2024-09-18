@@ -11,7 +11,7 @@
 </ul>
 
 <h3>🛠️ Current Focus:</h3>
-<p>Currently leading backend projects where I work closely with Node.js, Prisma, and MySQL. I love solving complex problems related to user management, trip bookings, and property listings.</p>
+<p>Currently leading backend projects where I work closely with Node.js, Prisma, and MySQL.</p>
 
 <h3>📫 Reach Me:</h3>
 <ul>
