@@ -7,7 +7,7 @@
   <li><b>Frontend:</b> React.js, JavaScript, HTML, CSS</li>
   <li><b>Database:</b> MySQL, MongoDB, SQL Server</li>
   <li><b>Automation & Scraping:</b> Puppeteer, Web Scraping, Data Extraction</li>
-  <li><b>Others:</b> API Development, Authentication, User Management, OTP Systems, Data Export (Excel, PDF), Cloud Storage</li>
+  <li><b>Others:</b> API Development, Authentication, User Management, OTP Systems, Data Export, Cloud Storage</li>
 </ul>
 
 <h3>🛠️ Current Focus:</h3>
