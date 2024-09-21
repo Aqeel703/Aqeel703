@@ -15,7 +15,7 @@
 
 <h3>📫 Reach Me:</h3>
 <ul>
-  <li><a href="https://www.linkedin.com/in/ahamed-aqeel/">LinkedIn</a></li>
+  <li>Linkedin: <a href="https://www.linkedin.com/in/ahamed-aqeel/">LinkedIn</a></li>
   <li>Email: <a href="mailto:ahamed703aqeel@gmail.com">ahamed703aqeel@gmail.com</a></li>
 </ul>
 <p>Always open to discussing new ideas and collaborations. Let’s build something great together!</p>
